@@ -1,17 +1,54 @@
-# tasks
+# 📝 Список задач (Tasks)
 
-A new Flutter project.
+Удобное Android-приложение для планирования дня, управления задачами и отслеживания продуктивности. Разработано на Flutter с использованием современных паттернов и Material 3.
 
-## Getting Started
+## 🚀 Функции
+- ✅ Создание, редактирование и удаление задач
+- ️ Встроенный таймер с уведомлениями и звуковым оповещением
+- 📊 Экран статистики по выполненным задачам
+- 🔍 Поиск и фильтрация по приоритету (Высокий / Средний / Низкий)
+- 🗑️ Корзина с возможностью восстановления
+- 🌙 Адаптивная тёмная/светлая тема
+- 💾 Локальное хранение данных (SQLite)
 
-This project is a starting point for a Flutter application.
+## 🛠️ Технологии
+- **Flutter** (Dart)
+- **Provider** (управление состоянием)
+- **SQLite** (`sqflite`) для локальной базы данных
+- **Flutter Local Notifications** для фоновых уведомлений
+- **AudioPlayers** для звуковых оповещений
+- **Material 3** дизайн
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Установка
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/ТВОЙ_НИК/tasks.git
+   cd tasks
+## 2. Установите зависимости:
+bash
+   ```bash
+   flutter pub get
+## 3. Запустите приложение:
+bash 
+   ```bash
+   flutter run
+## 📸 Скриншоты
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## 🔒 Безопасность
+Все данные хранятся локально на устройстве. Приложение не собирает персональные данные и не требует доступа к интернету.
+
+
+
+
+## 🤝 Вклад в проект
+Если вы нашли баг или хотите предложить новую функцию — создайте Issue или Pull Request. Буду рад обратной связи!
+
+
+
+## 📄 Лицензия
+MIT License
