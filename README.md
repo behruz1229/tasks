@@ -22,9 +22,26 @@
 ## 📦 Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ТВОЙ_НИК/tasks.git
+   git clone https://github.com/behruz1229/tasks.git
    cd tasks
 ## 2. Установите зависимости:
-bash
-   ```bash
-   flutter pub get
+```
+flutter pub get
+```
+## 3. Запустите приложение
+```
+flutter run
+```
+   
+## 📸 Скриншоты
+(https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+## 🔒 Безопасность
+Все данные хранятся локально на устройстве. Приложение не собирает персональные данные и не требует доступа к интернету.
+
+## 🤝 Вклад в проект
+Если вы нашли баг или хотите предложить новую функцию — создайте Issue или Pull Request. Буду рад обратной связи!
+
+## 📄 Лицензия
+MIT License
