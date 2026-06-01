@@ -21,16 +21,17 @@
 
 ## 📦 Установка
 1. Клонируйте репозиторий:
-   ```bash
+   ```
    git clone https://github.com/behruz1229/tasks.git
    cd tasks
-## 2. Установите зависимости:
+   ```
+2. Установите зависимости:
 ```
-flutter pub get
+   flutter pub get
 ```
-## 3. Запустите приложение
+3. Запустите приложение
 ```
-flutter run
+   flutter run
 ```
    
 ## 📸 Скриншоты
