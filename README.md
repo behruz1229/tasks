@@ -34,8 +34,8 @@ flutter run
 ```
    
 ## 📸 Скриншоты
-(https://myoctocat.com/assets/images/base-octocat.svg)
-
+<img src="./screenshot/New-Task.jpg" width="250"> <img src="./screenshot/Task_Active-1.jpg" width="250"> <img src="./screenshot/Task_Active-2.jpg" width="250">
+<img src="./screenshot/Task_Сompleted.jpg" width="250"> <img src="./screenshot/Statistics.jpg" width="250"> <img src="./screenshot/Trash.jpg" width="250">
 
 ## 🔒 Безопасность
 Все данные хранятся локально на устройстве. Приложение не собирает персональные данные и не требует доступа к интернету.
